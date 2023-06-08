@@ -1,0 +1,1 @@
+# bedwars-monitor-bot
