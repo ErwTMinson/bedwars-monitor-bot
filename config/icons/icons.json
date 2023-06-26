@@ -1,0 +1,17 @@
+{
+    "alarm": {"title": "Тревога!", "action": "title"},
+    "fight": {"title": "Бой", "action": "title"},
+    "angry": {"title": "Комманда [$choosed_comand_name] обстановку", "action": "Накаляют обстановку"},
+    "no_provisions": {"title": "Недостаток ресурсов", "action": "title"},
+    "bow_fight": {"title": "Бой с использованием луков", "action": "title"},
+    "breakthrough": {"title": "Прорыв", "action": "title"},
+    "captive": {"title": "Я в плену", "action": "Игрок $[tg_user_name] остался на захваченной территории"},
+    "defense_point": {"title": "Необходимо защищать точку", "action": "title"},
+    "ender_pearl_alarm": {"title": "Тревога, пёрлы", "action": "Тревога! Враг может использовать эндер-пёрлы"},
+    "fireball_damage": {"title": "Атака фаерболами", "action": "title"},
+    "freedom": {"title": "Атака фаерболами", "action": "title"},
+    "go_to_point": {"title": "Идти к точке", "action": "title"},
+    "info": {"title": "Информация", "action": "$[current_command]: [$info]"},
+    "point_captured": {"title": "Точка захваена командой [$choosed_comand_name]", "action": "Точка захвачена"},
+    "shears": {"title": "Отрезаны", "action": "Команда [$choosed_comand_name] была отрезана от снабжения"}
+}
